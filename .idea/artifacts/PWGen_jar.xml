@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PWGen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PWGen_jar</output-path>
+    <root id="archive" name="PWGen.jar">
+      <element id="module-output" name="PWGen" />
+    </root>
+  </artifact>
+</component>
